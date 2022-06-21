@@ -1,0 +1,111 @@
+.pictures img{
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-right: -12px;
+        
+}
+.pictures{
+    /* border: 1px solid black; */
+    margin-left: 85px;
+    margin-top: 20px;
+    
+}
+li{
+    display: inline;
+    /* border: 1px solid red; */
+    margin-left: 70px;
+}
+*{
+    box-sizing: border-box;
+    background-size: 800px;
+}
+.logo{
+    width: 150px;
+    height: 55px;
+    margin-left: 55px;
+}
+.header{
+    margin-left: 600px;
+    /* border: 2px solid green; */
+    margin-top: -55px;
+}
+h1{
+    /* border: 1px solid red; */
+    margin-top: 5cm;
+    margin-left: 85px;
+    font-size: 60px;
+    
+}
+.safety{
+    float: right;
+    /* border: 3px solid yellow; */
+    width: 600px;
+    height: 600px;
+    margin-top: -370px;
+    margin-right: 250px;
+}
+p{
+    margin-left: 85px;
+    
+}
+.paragraph{
+    margin-top: -50px;
+}
+.join{
+    margin-left: 85px;
+    height: 40px;
+    width: 120px;
+    margin-top: 20px;
+    background-color: blue;
+    color: azure;
+    border-color: blue;
+    /* border: 1px solid rgba(111, 0, 255, 0.116); */
+    
+}
+.download{
+    height: 40px;
+    width: 120px;
+    margin-left: 30px;
+    margin-bottom: -10px;
+    position: relative;
+    /* border: 1px solid blue; */
+    color: blue;
+    border-color: blue;
+}
+.fa-google-play{
+     position: relative;
+    left: 35px;
+    color: blue;
+}
+.create{
+    float: right;
+    margin-right: 240px;
+    height: 40px;
+    width: 120px;
+    margin-top: -10px;
+    background-color: blue;
+    color: white;
+    border-color: blue;
+}
+.foot{
+    padding-left: 90px;
+    margin-top: -30px;
+    font-size: 12px;
+    /* border: 1px solid red; */
+}
+button{
+    position: fixed;
+    bottom: 280px;
+    height: 40px;
+    width: 120px;
+    margin-left: 30px;
+    margin-bottom: -10px;
+    /* border: 1px solid blue; */
+    color: blue;
+    border-color: blue;
+}
+.fa-google-play {
+    position: absolute;
+    left: 10px;
+}
